@@ -12,7 +12,7 @@
 #include <linux/of.h>
 
 #define SUN8I_CODEC_ANALOG_BASE	0x1c0
-#define SUN8I_CODEC_ANALOG_SIZE	0x4
+#define SUN8I_CODEC_ANALOG_SIZE	0x10
 
 struct prcm_data {
 	int nsubdevs;
